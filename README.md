@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/n4xo_dev" target="blank"><img src="https://img.shields.io/twitter/follow/n4xo_dev?logo=twitter&style=for-the-badge" alt="n4xo_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Project [REJI]]({REDACTED})
+- 🔭 I’m currently working on [Project \[REJI\]](https://github.com/lynx-checkin)
 
 - 🌱 I’m currently learning **AWS Associate Solutions Architect + SysOps Administrator + Developer**
 
